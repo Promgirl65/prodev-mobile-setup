@@ -1,4 +1,3 @@
-# prodev-mobile-setup
 # Mobile Development Environment Setup – Expo Go
 
 ## Overview
